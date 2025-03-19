@@ -1,7 +1,7 @@
 README.md
 
 
-# File Tree Serializer (CSE 320 HW1)
+# File Tree Serializer
 # Overview
 This project implements a command-line utility in C that:
 Serializes a tree of files/directories into a byte sequence.
